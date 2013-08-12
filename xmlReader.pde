@@ -43,7 +43,7 @@ void setup() {
   fieldArray(fleschScore, "flesh_score");
   fieldArray(smogScore, "smog_score");
   fieldArray(avgSyllablesword, "average_syllables_per_word");
-//  fieldArray(avgLettersword, "average_letters_per_word");
+//fieldArray(avgLettersword, "average_letters_per_word");
   fieldArray(avgLetterssyl, "average_letters_per_syllable");
   fieldArray(educationLevel, "education_level");
 
